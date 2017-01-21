@@ -3,3 +3,5 @@
 name = "hello_world"
 version = "0.0.1"
 authors = [ "Tim Dang <timothy.dang@gmail.com>" ]
+
+[dependencies]
